@@ -1,6 +1,6 @@
 # reproductive_timing
 
-[[DOI]
+[![DOI](https://zenodo.org/badge/522023558.svg)](https://zenodo.org/badge/latestdoi/522023558)
 
 This repository contains the data and code used to produce analysis for a paper in revision:
 
