@@ -46,7 +46,7 @@ plot(fit.gamma)
 windows()
 # pdf(file="TablesFigures/Fig3_observed_biopsied_maternities.pdf")
 hist(sur_calf$conception_age, prob = TRUE, breaks = seq(5, 45, 2.5),
-     ylab = "Proportion", xlab = "Maternal age at Conception",
+     ylab = "Proportion", xlab = "Maternal Age at Conception",
      border = "darkgrey", main = NA, ylim = c(0, 0.1),
      # xlim = c(5, 45),
      yaxt = "n",
